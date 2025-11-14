@@ -1,68 +1,138 @@
-<h1 align="center">Hola 👋, Soy Francisco Domínguez</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática | Universidad de Panamá 🇵🇦</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscodominguez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="franciscodominguez" /> </p>
-💻 Sobre Mí
-🎓 Educación
+<div align="center">
+  
+# 👋 Hola, Soy Francisco Domínguez
 
-Estudiante de 4° año de Ingeniería en Informática - Universidad de Panamá
-Bachiller en Informática - Colegio Federico Zúñiga Feliú (2019-2021)
+### Estudiante de Ingeniería en Informática | Universidad de Panamá 🇵🇦
 
-🚀 Enfoque
+<img alt="Coding" width="380" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" style="border-radius:15px; margin: 20px 0;">
 
-Desarrollo backend y gestión de bases de datos
-En constante aprendizaje de nuevas tecnologías
+</div>
 
-💡 Filosofía
+## 💼 ¿Quién Soy?
 
-Resolviendo problemas con código, una línea a la vez
+Soy estudiante de **4° año de Ingeniería en Informática** con enfoque en el **desarrollo de software**, **bases de datos**, **creación de aplicaciones**, **soporte técnico** y **mantenimiento preventivo/correctivo** de equipos.
 
-📫 Contacto
+Me apasiona desarrollar soluciones reales que optimicen procesos, integren datos y resuelvan problemas mediante tecnología.
 
-dominguezf041@gmail.com
+## 🧠 Lo que Sé Hacer
 
-<h3 align="left">🌐 Conecta Conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/francisco-dominguez-77953b33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fldv.10/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/fran234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ Desarrollo de Software**
+- Apps de escritorio con **Java (Swing + MVC)**
+- Aplicaciones web con **HTML, CSS, JS, PHP**
+- Lógica de negocio y patrones de diseño
+- Interfaces intuitivas y funcionales
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Bases de Datos**
+- Diseño y normalización profesional
+- **MySQL & PostgreSQL**
+- Triggers, vistas, procedimientos
+- Optimización de consultas
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📱 Apps Empresariales**
+- Sistemas multi-usuario con roles
+- Control de inventarios y finanzas
+- Generación de reportes dinámicos
+- Validaciones y seguridad
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Plus Técnico**
+- Git & GitHub
+- Soporte y mantenimiento de PC
+- Configuración de redes
+- Documentación técnica
+
+</td>
+</tr>
+</table>
+
+## 🚀 Stack Tecnológico
+
 <p align="center">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-</a> &nbsp;&nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
+</p>
+
+## 🌟 Proyectos Destacados
+
+### 🌾 Sistema de Gestión Agrícola
+**Cooperativa Agrícola La Pintada**
+
+Sistema web integral para la administración de cooperativas agrícolas
+
+```
+✓ 4 tipos de usuarios con roles        ✓ Control de inventario inteligente
+✓ Dashboard con datos en tiempo real   ✓ Sistema completo de reportes
+✓ Módulo financiero automatizado        ✓ Gestión de socios y productores
+```
+
+**Tech Stack:** HTML · CSS · JavaScript · PHP · MySQL
+
+<div align="center">
+  <img src="./assets/Cooperativa_Agricola.png" width="45%">
+  <img src="./assets/Coperativa_agricola_2.png" width="45%">
+</div>
+
+### 📄 Control de Documentos — Universidad de Panamá 🇵🇦
+**Sistema de Recepción Académica**
+
+Aplicación de escritorio para la gestión y seguimiento de documentos universitarios
+
+```
+✓ Arquitectura MVC profesional          ✓ Panel administrativo completo
+✓ Gestión de usuarios y permisos        ✓ Notificaciones automáticas
+✓ Tracking de trámites en tiempo real   ✓ Generación de reportes
+```
+
+**Tech Stack:** Java · Swing · MySQL · JDBC
+
+<div align="center">
+  <img src="./assets/Gestion_de_documentos_UP_2.png" width="45%">
+  <img src="./assets/Gestion_de_documentos_UP.png" width="45%">
+</div>
+
+<div align="center">
+
+## 📫 Conecta Conmigo
+
+<a href="https://www.linkedin.com/in/francisco-dominguez-77953b33a/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
 </a>
-</p>
-<br>
+<a href="https://www.instagram.com/fldv.10/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+</a>
+<a href="https://leetcode.com/u/fran234/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
+</a>
 
-<p align="center">
-  <em>⚡ "Estudiante hoy, ingeniero mañana. Programador siempre." ⚡</em>
-</p>
-<p align="center">
-  <em>🚀 while(estudiante) { aprender(); practicar(); mejorar(); }</em>
-</p>
+## 💬 ¿Colaboramos?
 
-<p align="center">
-  <sub>⭐ Desarrollado con ☕ y 💻 por Francisco Domínguez</sub>
-</p>
+Abierto a proyectos, prácticas profesionales y oportunidades de desarrollo.
+
+**Contáctame via Issues · Discussions · Redes Sociales**
+
+### ⚡ *"Estudiante hoy, ingeniero mañana. Programador siempre."* ⚡
+
+**Desarrollado con 💙 por Francisco Domínguez**
+
+</div>
