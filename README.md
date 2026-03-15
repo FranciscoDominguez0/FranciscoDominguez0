@@ -10,7 +10,7 @@
 
 ## 💼 ¿Quién Soy?
 
-Soy estudiante de **4° año de Ingeniería en Informática** con enfoque en el **desarrollo de software**, **bases de datos**, **creación de aplicaciones**, **soporte técnico** y **mantenimiento preventivo/correctivo** de equipos.
+Soy estudiante de **5° año de Ingeniería en Informática** con enfoque en el **desarrollo de software**, **bases de datos**, **creación de aplicaciones**, **soporte técnico** y **mantenimiento preventivo/correctivo** de equipos.
 
 Me apasiona desarrollar soluciones reales que optimicen procesos, integren datos y resuelvan problemas mediante tecnología.
 
@@ -23,6 +23,8 @@ Me apasiona desarrollar soluciones reales que optimicen procesos, integren datos
 **🖥️ Desarrollo de Software**
 - Apps de escritorio con **Java (Swing + MVC)**
 - Aplicaciones web con **HTML, CSS, JS, PHP**
+- Desarrollo moderno con **React & Next.js**
+- Tipado estático con **TypeScript**
 - Lógica de negocio y patrones de diseño
 - Interfaces intuitivas y funcionales
 
@@ -44,6 +46,7 @@ Me apasiona desarrollar soluciones reales que optimicen procesos, integren datos
 - Sistemas multi-usuario con roles
 - Control de inventarios y finanzas
 - Generación de reportes dinámicos
+- Sistemas de tickets y notificaciones
 - Validaciones y seguridad
 
 </td>
@@ -63,17 +66,68 @@ Me apasiona desarrollar soluciones reales que optimicen procesos, integren datos
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
 </p>
 
 ## 🌟 Proyectos Destacados
+
+---
+
+### 🎫 Sistema de Tickets Empresarial
+**Plataforma de soporte multi-departamental**
+
+Sistema web completo para la gestión y seguimiento de tickets de soporte entre usuarios y departamentos de una organización.
+
+```
+✓ 3 niveles de acceso (Usuario, Agente, Super Admin)   ✓ Asignación de tickets por departamento
+✓ Panel de control en tiempo real                       ✓ Historial y seguimiento de estados
+✓ Notificaciones automáticas                            ✓ Reportes y métricas de rendimiento
+```
+
+**Tech Stack:** PHP · JavaScript · CSS · MySQL
+
+<div align="center">
+  <img src="./assets/tickets/login.png" width="45%" alt="Login - Sistema de Tickets">
+  <img src="./assets/tickets/panel_usuario.png" width="45%" alt="Panel Usuario - Sistema de Tickets">
+  <img src="./assets/tickets/panel_agente.png" width="45%" alt="Panel Agente - Sistema de Tickets">
+  <img src="./assets/tickets/panel_superadmin.png" width="45%" alt="Panel Super Admin - Sistema de Tickets">
+</div>
+
+---
+
+### 🔔 Sistema de Notificaciones Empresarial
+**Plataforma de recordatorios y gestión de renovaciones**
+
+Sistema de notificaciones interno para empresas que gestiona recordatorios de renovación de planes, tareas pendientes y alertas para usuarios y administradores.
+
+```
+✓ Recordatorios automáticos de renovación de planes    ✓ Gestión de tareas y vencimientos
+✓ Dashboard con métricas en tiempo real                 ✓ Panel de servicios activos
+✓ Autenticación segura con JWT                          ✓ Notificaciones vía correo electrónico
+```
+
+**Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · Express.js · PostgreSQL
+
+<div align="center">
+  <img src="./assets/notificaciones/login.png" width="45%" alt="Login - Sistema de Notificaciones">
+  <img src="./assets/notificaciones/panel_dashboard.png" width="45%" alt="Dashboard - Sistema de Notificaciones">
+  <img src="./assets/notificaciones/panel_servicio.png" width="45%" alt="Panel Servicio - Sistema de Notificaciones">
+  <img src="./assets/notificaciones/panel_tareas.png" width="45%" alt="Panel Tareas - Sistema de Notificaciones">
+</div>
+
+---
 
 ### 🌾 Sistema de Gestión Agrícola
 **Cooperativa Agrícola La Pintada**
@@ -93,6 +147,8 @@ Sistema web integral para la administración de cooperativas agrícolas
   <img src="./assets/Coperativa_agricola_2.png" width="45%">
 </div>
 
+---
+
 ### 📄 Control de Documentos — Universidad de Panamá 🇵🇦
 **Sistema de Recepción Académica**
 
@@ -110,6 +166,8 @@ Aplicación de escritorio para la gestión y seguimiento de documentos universit
   <img src="./assets/Gestion_de_documentos_UP_2.png" width="45%">
   <img src="./assets/Gestion_de_documentos_UP.png" width="45%">
 </div>
+
+---
 
 <div align="center">
 
